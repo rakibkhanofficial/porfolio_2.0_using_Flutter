@@ -1,8 +1,8 @@
 <h1 align="center">
-  Flutter E-Commerce App
+  Portfolio 2.0 Using Flutter
 </h1>
 <p align="center">
-This project is basically A flutter app which is an E-Commerce App using Dart Programming language .
+This project is basically A flutter app which is a Portfolio project using Dart Programming language .
 </p>
 <p align="center">
 <a href="https://github.com/Rakib00111/github-profile-readme-generator/blob/master/LICENSE" target="blank">
@@ -32,5 +32,4 @@ This project is basically A flutter app which is an E-Commerce App using Dart Pr
 
 ## Auther
 Rakib_khan  khanrakib218@gmail.com
-![](https://github.com/Rakib00111/complete_flutter_ecommerce/blob/master/AppImage.jpg)
-![](https://github.com/Rakib00111/complete_flutter_ecommerce/blob/master/Flutter_ECommerce.jpg)
+![](https://github.com/Rakib00111/porfolio_2.0_using_Flutter/blob/main/potfolio.png)
